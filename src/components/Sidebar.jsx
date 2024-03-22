@@ -1,4 +1,5 @@
 // Filename - components/Sidebar.js
+// geeks for geeks dropdown added in it
 import styled from "styled-components";
 import { Link } from "react-router-dom";
 import * as FaIcons from "react-icons/fa";
